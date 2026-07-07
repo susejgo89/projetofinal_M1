@@ -1,0 +1,12 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Archivos pesados o temporales de Python
+__pycache__/
+*.pyc
