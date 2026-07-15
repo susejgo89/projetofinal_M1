@@ -100,3 +100,6 @@ Certifique-se de ter o Python 3 instalado em seu computador.
 * **Painel Interativo:** Desenvolver um dashboard em Streamlit para a equipe técnica acompanhar graficamente o status de cada máquina.
 * **Otimização de Hiperparâmetros Avançada:** Utilizar bibliotecas como o Optuna para refinar os hiperparâmetros de Boosting de forma automatizada.
 * **Ajuste de Métrica de Negócio:** Mudar o foco de otimização de Acurácia para Recall ou F1-Score, para minimizar ao máximo os falsos negativos (máquinas que quebram sem o aviso do sistema).
+
+## Link do Video de apresentação
+https://drive.google.com/file/d/1DePL9gQKf2qBV8jc41jKs3h98uWqohHY/view?usp=sharing
